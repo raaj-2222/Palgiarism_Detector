@@ -1,0 +1,1 @@
+Artificial intelligence is the simulation of human intelligence by machines. It includes learning, reasoning and self correction. Modern systems use large amounts of data to improve their performance over time. Many industries such as healthcare and finance now depend on these tools.
